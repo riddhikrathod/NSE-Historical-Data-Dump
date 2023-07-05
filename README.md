@@ -1,5 +1,5 @@
 # NSE-Historical-Data-Dump
-"Historical Data Dump.ipynb" fetches & stores historical data from NSE using the nselib and yfinance libraries.
+Historical Data Dump.ipynb fetches & stores historical data from NSE using the nselib and yfinance libraries.
 
 The code covers data for the following indices: Broad Market Indices, Sectoral Indices, Thematic Indices, and Strategy Indices
 
