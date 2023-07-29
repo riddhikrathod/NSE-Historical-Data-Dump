@@ -1,9 +1,11 @@
 # NSE-Historical-Data-Dump
 Historical Data Dump.ipynb fetches & stores historical data from NSE using the nselib and yfinance libraries. 
 
-The code covers data for the following indices: Broad Market Indices, Sectoral Indices, Thematic Indices, and Strategy Indices
+The code covers data for the following types of indices: Broad Market Indices, Sectoral Indices, Thematic Indices, and Strategy Indices
 
-The input_file.csv has the following columns:
+The data pull is baselined as of Date: 2023/07/05 [5th July, 2023]
+
+The input_file.csv (required for running the code) has the following columns:
 1. TYPE: Index Type
 2. INDEX: Index name to fetch data using nselib
 3. ETF: ETF name to fetch data using Yahoo Finance
